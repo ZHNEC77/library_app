@@ -67,7 +67,7 @@ library_app/
 
 # Использование
 Клонируйте репозиторий:
-git clone https://github.com/
+git clone https://github.com/ZHNEC77/library_app.git
 
 1. Перейдите в директорию проекта:
 cd library_app
